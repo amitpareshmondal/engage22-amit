@@ -1,0 +1,1 @@
+script : node index.js
